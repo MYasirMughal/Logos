@@ -9,9 +9,9 @@ Free to use
 
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/c.svg" alt="C language" height="50" width="50" />
-<img src="" alt="C++ language" height="50" width="50" /> 
-<img src="" alt="python" height="50" width="50" /> 
-<img src="" alt="java" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/c++.svg" alt="C++ language" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/python.svg" alt="python" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/java.svg" alt="java" height="50" width="50" /> 
 <img src="" alt="" height="50" width="50" /> 
 <img src="" alt="" height="50" width="50" /> 
 
