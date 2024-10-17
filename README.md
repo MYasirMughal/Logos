@@ -21,8 +21,8 @@ Free to use
 #### Front-End:
 
 <p align='left'>
-<img src="https://github.com/MYasirMughal/Logos/blob/main/others/html.svg" alt="Html" height="50" width="50" />
-<img src="https://github.com/MYasirMughal/Logos/blob/main/others/css.svg" alt="CSS" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Others/html.svg" alt="Html" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Others/css.svg" alt="CSS" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/javascript.svg" alt="JS" height="50" width="50" /> 
 
 </p>
