@@ -8,7 +8,7 @@ Free to use
 ###  👨‍💻  Programming languages
 
 <p align='left'>
-<img src="" alt="C language" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/c.svg" alt="C language" height="50" width="50" />
 <img src="" alt="C++ language" height="50" width="50" /> 
 <img src="" alt="python" height="50" width="50" /> 
 <img src="" alt="java" height="50" width="50" /> 
