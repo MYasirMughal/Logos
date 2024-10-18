@@ -40,6 +40,16 @@ Free to use
 
 </p>
 
+## Databases
+
+
+<p align='left'>
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/mysql.svg" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/oracle.svg" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/postgresql.svg" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/mangodb.svg" height="50" width="50" />
+
+
 ## Ide
 
 
@@ -65,5 +75,5 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/firebase.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/docker.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/bitbucket.svg" height="50" width="50" /> 
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/bitbucketv2.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/bitbucketV2.svg" height="50" width="50" /> 
 </p>
