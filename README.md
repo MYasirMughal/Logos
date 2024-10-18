@@ -44,8 +44,7 @@ Free to use
 
 
 <p align='left'>
-<img src="" alt="C language" height="50" width="50" />
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editor/vscode.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/vscode.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/pycharm.svg" alt="python" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/eclipse.svg" alt="java" height="50" width="50" /> 
 
@@ -55,8 +54,12 @@ Free to use
 ## Cloud
 
 <p align='left'>
-<img src="" alt="C language" height="50" width="50" />
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editor/vscode.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/amazone.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/azure.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/terraform.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/ansible.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/github.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/gitlab.svg" height="50" width="50" /> 
 
 
 
