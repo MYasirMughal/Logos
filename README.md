@@ -47,7 +47,7 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/mysql.svg" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/oracle.svg" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/postgresql.svg" height="50" width="50" />
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/maongodb.svg" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/mongodb.svg" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/redis.svg" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/cassandra.svg" height="50" width="50" />
 </p>
