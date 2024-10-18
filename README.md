@@ -12,6 +12,9 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/c++.svg" alt="C++ language" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/python.svg" alt="python" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/java.svg" alt="java" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/c#.svg" alt="C#" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/bash.svg" alt="Bash" height="50" width="50" /> 
+
 <img src="" alt="" height="50" width="50" /> 
 <img src="" alt="" height="50" width="50" /> 
 
@@ -24,6 +27,7 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Others/html.svg" alt="Html" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Others/css.svg" alt="CSS" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/javascript.svg" alt="JS" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/typescript.svg" alt="TypeScript" height="50" width="50" /> 
 
 </p>
 
