@@ -54,13 +54,16 @@ Free to use
 ## Cloud
 
 <p align='left'>
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/amazone.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/amazon.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/azure.svg" height="50" width="50" /> 
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/terraform.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/gcloud.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/terraform.png" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/ansible.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/github.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/gitlab.svg" height="50" width="50" /> 
-
-
-
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/heroku.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/firebase.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/docker.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/bitbucket.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/bitbucketv2.svg" height="50" width="50" /> 
 </p>
