@@ -28,7 +28,6 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Others/css.svg" alt="CSS" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/javascript.svg" alt="JS" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/typescript.svg" alt="TypeScript" height="50" width="50" /> 
-
 </p>
 
 #### Back-End:
@@ -37,7 +36,6 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/php.png" alt="php" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/nodejs.svg" alt="node js" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/javascript.svg" alt="JS" height="50" width="50" /> 
-
 </p>
 
 ## Databases
@@ -52,18 +50,21 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Databases/cassandra.svg" height="50" width="50" />
 </p>
 
-## Ide
 
+
+## IDEs
 
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/vscode.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/pycharm.svg" alt="python" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/eclipse.svg" alt="java" height="50" width="50" /> 
-
-
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/atom.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/sublime.svg" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/notepad++.png" height="50" width="50" /> 
 </p>
 
 ## Cloud
+
 
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Cloud/amazon.svg" height="50" width="50" /> 
