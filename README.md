@@ -65,6 +65,19 @@ Free to use
 
 </p>
 
+#### ReactJS Data Fetching Libraries
+<p align='left'>
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Data-Fetching-Libraries/Axios.png" alt="Axios" height="50" width="50" />
+
+
+</p>
+
+#### ReactJS Form Handling Libraries
+
+<p align='left'>
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Form-Handling-Libraries/Formspree.png" alt="Shadcn" height="50" width="50" />
+</p>
+
 #### Back-End:
 
 <p align='left'>
