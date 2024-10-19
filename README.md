@@ -14,6 +14,8 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/java.svg" alt="java" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/c#.svg" alt="C#" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/bash.svg" alt="Bash" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/Batch.png" alt="Batch" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/PowerShell.png" alt="PowerShell" height="50" width="50" /> 
 
 
 <br>
@@ -37,7 +39,7 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/typescript.svg" alt="TypeScript" height="50" width="50" /> 
 </p>
 
-#### CSS Libraries
+#### CSS Libraries:
 
 
 <p align='left'>
@@ -45,13 +47,13 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/TailwindCSS.png" alt="TailwindCSS" height="50" width="50" />
 </p>
 
-#### Tailwind CSS Components Libraries
+#### Tailwind CSS Components Libraries:
 
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Tailwind-Components-Libraries/Shadcn.png" alt="Shadcn" height="50" width="50" />
 </p>
 
-#### Bootstrap CSS Components Libraries
+#### Bootstrap CSS Components Libraries:
 
 
 #### Back-End:
@@ -87,14 +89,16 @@ Free to use
 ## IDEs & Text Editors
 
 
-### IDEs
+### IDEs:
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/vscode.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/pycharm.svg" alt="python" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/eclipse.svg" alt="java" height="50" width="50" /> 
+</p>
 
-### Text Editors
+### Text Editors:
 
+<p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/atom.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/sublime.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/notepad++.png" height="50" width="50" /> 
