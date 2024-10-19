@@ -55,8 +55,8 @@ Free to use
 
 #### Bootstrap CSS Components Libraries:
 
-#### ReactJS Libraries
-#### ReactJS State Management Libraries
+#### ReactJS Libraries:
+#### ReactJS State Management Libraries:
 
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Redux.svg" alt="Redux" height="50" width="50" />
@@ -65,25 +65,31 @@ Free to use
 
 </p>
 
-#### ReactJS Data Fetching Libraries
+#### ReactJS Data Fetching Libraries:
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Data-Fetching-Libraries/Axios.png" alt="Axios" height="50" width="50" />
 
 
 </p>
 
-#### ReactJS Form Handling Libraries
+#### ReactJS Form Handling Libraries:
 
 <p align='left'>
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Form-Handling-Libraries/Formspree.png" alt="Shadcn" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Form-Handling-Libraries/Formspree.png" alt="Formspree" height="50" width="50" />
 </p>
 
 
-#### ReactJS UI Components Libraries
+#### ReactJS UI Components Libraries:
 
 
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/UI-Components-Libraries/RTE.png" alt="React-Typewriter-Effect" height="50" width="50" />
+</p>
+
+#### ReactJS Motion Libraries:
+
+<p align='left'>
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Motion-Libraries/Framer-Motion.png" alt="Framer Motion" height="50" width="50" />
 </p>
 
 #### Back-End:
