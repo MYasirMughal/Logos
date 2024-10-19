@@ -23,10 +23,6 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/rust.svg" alt="Rust" height="50" width="50" /> 
 
 
-
-<img src="" alt="" height="50" width="50" /> 
-<img src="" alt="" height="50" width="50" /> 
-
 </p>
 
 ### 🌎 Web-Development
@@ -71,6 +67,13 @@ Free to use
 
 
 </p>
+
+#### ReactJS Headless CMS
+
+<p align='left'>
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Headless-CMS/Sanity.io.png" alt="Sanity.io" height="50" width="50" />
+</p>
+
 
 #### ReactJS Form Handling Libraries:
 
