@@ -55,6 +55,15 @@ Free to use
 
 #### Bootstrap CSS Components Libraries:
 
+#### ReactJS Libraries
+#### ReactJS State Management Libraries
+
+<p align='left'>
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Redux.svg" alt="Redux" height="50" width="50" />
+
+
+
+</p>
 
 #### Back-End:
 
