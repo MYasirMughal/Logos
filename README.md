@@ -39,16 +39,19 @@ Free to use
 
 #### CSS Libraries
 
+
+<p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Bootstrap.png" alt="BootstrapCSS" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/TailwindCSS.png" alt="TailwindCSS" height="50" width="50" />
+</p>
 
+#### Tailwind CSS Components Libraries
 
-#### Tailwind CSS Components Frameworks
-
+<p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Tailwind-Components-Libraries/Shadcn.png" alt="Shadcn" height="50" width="50" />
+</p>
 
-
-#### Bootstrap CSS Components Frameworks
+#### Bootstrap CSS Components Libraries
 
 
 #### Back-End:
@@ -81,12 +84,17 @@ Free to use
 
 
 
-## IDEs
+## IDEs & Text Editors
 
+
+### IDEs
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/vscode.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/pycharm.svg" alt="python" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/IDEs/eclipse.svg" alt="java" height="50" width="50" /> 
+
+### Text Editors
+
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/atom.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/sublime.svg" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Text-Editors/notepad++.png" height="50" width="50" /> 
