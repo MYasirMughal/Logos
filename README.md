@@ -31,18 +31,32 @@ Free to use
 #### Front-End:
 
 <p align='left'>
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Others/html.svg" alt="Html" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Others/html.svg" alt="HTML" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Others/css.svg" alt="CSS" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/javascript.svg" alt="JS" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/typescript.svg" alt="TypeScript" height="50" width="50" /> 
 </p>
+
+#### CSS Libraries
+
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Bootstrap.png" alt="ASP.Net" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Tailwind.png" alt="ASP.Net" height="50" width="50" />
+
+
+#### Tailwind CSS Components Frameworks
+
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Shadcn.png" alt="ASP.Net" height="50" width="50" />
+
+
+#### Bootstrap CSS Components Frameworks
+
 
 #### Back-End:
 
 <p align='left'>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/php.png" alt="php" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/javascript.svg" alt="JS" height="50" width="50" /> 
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/nodejs.svg" alt="node js" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/BackEnd-Frameworks/NodeJS.svg" alt="NodeJS" height="50" width="50" />
 
 <br>
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/BackEnd-Frameworks/ASP.Net Web Application Development.png" alt="ASP.Net Web Development" height="50" width="50" />
