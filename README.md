@@ -39,13 +39,13 @@ Free to use
 
 #### CSS Libraries
 
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Bootstrap.png" alt="ASP.Net" height="50" width="50" />
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Tailwind.png" alt="ASP.Net" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Bootstrap.png" alt="BootstrapCSS" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Tailwindcss.png" alt="TailwindCSS" height="50" width="50" />
 
 
 #### Tailwind CSS Components Frameworks
 
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Shadcn.png" alt="ASP.Net" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Tailwind-Components-Libraries/Shadcn.png" alt="Shadcn" height="50" width="50" />
 
 
 #### Bootstrap CSS Components Frameworks
