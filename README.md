@@ -38,7 +38,7 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/nodejs.svg" alt="node js" height="50" width="50" />
 
 <br>
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/BackEnd-Frameworks/ASP.Net Web Development.png" alt="ASP.Net Web Development" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/BackEnd-Frameworks/ASP.Net Web Application Development.png" alt="ASP.Net Web Development" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/BackEnd-Frameworks/Asp.net.png" alt="ASP.Net" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/BackEnd-Frameworks/ASP.Net Core.png" alt="ASP.Net Core" height="50" width="50" />
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/BackEnd-Frameworks/ASP.Net MVC.png" alt="ASP.Net MVC" height="50" width="50" />
