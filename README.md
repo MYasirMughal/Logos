@@ -15,6 +15,13 @@ Free to use
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/c#.svg" alt="C#" height="50" width="50" /> 
 <img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/bash.svg" alt="Bash" height="50" width="50" /> 
 
+
+<br>
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/Solidity.png" alt="Solidity" height="50" width="50" /> 
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Programming-Languages/rust.svg" alt="Rust" height="50" width="50" /> 
+
+
+
 <img src="" alt="" height="50" width="50" /> 
 <img src="" alt="" height="50" width="50" /> 
 
