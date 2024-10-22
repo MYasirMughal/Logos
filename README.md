@@ -63,7 +63,7 @@ Free to use
 
 #### ReactJS Data Fetching Libraries:
 <p align='left'>
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Data-Fetching-Libraries/Axios.png" alt="Axios" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Data-Fetching-Libraries/axios.svg" alt="Axios" height="50" width="50" />
 
 
 </p>
