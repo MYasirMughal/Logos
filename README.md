@@ -92,7 +92,7 @@ Free to use
 #### ReactJS Motion Libraries:
 
 <p align='left'>
-<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Motion-Libraries/Framer-Motion.png" alt="Framer Motion" height="50" width="50" />
+<img src="https://github.com/MYasirMughal/Logos/blob/main/Frameworks/FrontEnd-Frameworks/Motion-Libraries/Framer-Motion.svg" alt="Framer Motion" height="50" width="50" />
 </p>
 
 #### Back-End:
